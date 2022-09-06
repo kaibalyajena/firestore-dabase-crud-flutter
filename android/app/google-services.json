@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015244165674",
+    "project_id": "learning-cloud-firestore-ddb57",
+    "storage_bucket": "learning-cloud-firestore-ddb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015244165674:android:446e1d0cbbb1f97a502953",
+        "android_client_info": {
+          "package_name": "com.example.learning_cloud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015244165674-1hj723noma0ha8bdjv3bm16pcfe8kkaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALOeOyvSkHA6ib915Cej8-ws8G_czcFwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015244165674-1hj723noma0ha8bdjv3bm16pcfe8kkaj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
